@@ -1,0 +1,10 @@
+{
+	id: "01FDC1607F35E478"
+	group: "72F67964A3F11222"
+	order_index: 4
+	filename: "edward_shuttle"
+	title: "Edward Shuttle"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

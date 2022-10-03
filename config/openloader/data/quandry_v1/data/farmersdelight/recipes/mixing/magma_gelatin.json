@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "nethersdelight:propelpearl"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "nethersdelight:magma_gelatin"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gems/source"
+    },
+    {
+      "item": "forbidden_arcanus:arcane_gold_nugget"
+    },
+    {
+      "item": "forbidden_arcanus:arcane_gold_nugget"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:sconce"
+  }
+}

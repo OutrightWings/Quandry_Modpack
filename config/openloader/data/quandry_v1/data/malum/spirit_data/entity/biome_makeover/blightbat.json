@@ -1,0 +1,14 @@
+{
+  "registry_name": "biomemakeover:blightbat",
+  "primary_type": "aerial",
+  "spirits": [
+    {
+      "spirit": "aerial",
+      "count": 1
+    },
+    {
+      "spirit": "earthen",
+      "count": 1
+    }
+  ]
+}

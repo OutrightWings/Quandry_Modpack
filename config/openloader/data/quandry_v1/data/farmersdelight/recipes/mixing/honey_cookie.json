@@ -1,0 +1,43 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item":"minecraft:wheat"
+        },
+        {
+            "item":"minecraft:wheat"
+        },
+        {
+            "fluid": "create:honey",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        },
+        {
+            "item":"farmersdelight:honey_cookie"
+        }
+        
+    ],
+    "heatRequirement": "none"
+}

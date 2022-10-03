@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:milk",
+      "amount": 500
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:coffee_cake"
+    }
+  ],
+  "heatRequirement": "none"
+}

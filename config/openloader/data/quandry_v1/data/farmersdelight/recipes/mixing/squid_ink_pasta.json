@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:squid_ink_pasta"
+    }
+  ],
+  "heatRequirement": "heated"
+}

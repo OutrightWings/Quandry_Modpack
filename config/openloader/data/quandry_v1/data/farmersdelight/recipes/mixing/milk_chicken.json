@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:raw_chicken"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "largemeals:milk_chicken"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "ars_nouveau:glyph",
+  "count": 1,
+  "inputItems": [
+	{
+		"item": {
+        	"item": "ars_nouveau:manipulation_essence"}
+	},
+    {
+      "item": {
+        "item": "byg:pendorite_pickaxe"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_block"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_block"
+      }
+    }
+  ],
+  "exp": 160,
+  "output": "ars_nouveau:glyph_amplify_three"
+}

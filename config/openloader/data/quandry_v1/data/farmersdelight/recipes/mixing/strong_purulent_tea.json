@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:purulent_tea"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:strong_purulent_tea"
+    }
+  ],
+  "heatRequirement": "heated"
+}

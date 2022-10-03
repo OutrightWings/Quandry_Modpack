@@ -1,0 +1,30 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_ingot"
+      }      
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:dominion_wand"
+  },
+  "sourceCost": 0,
+  "keepNbtOfReagent": false
+}

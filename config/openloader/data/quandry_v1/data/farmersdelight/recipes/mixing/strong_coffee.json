@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:strong_coffee"
+    }
+  ],
+  "heatRequirement": "heated"
+}

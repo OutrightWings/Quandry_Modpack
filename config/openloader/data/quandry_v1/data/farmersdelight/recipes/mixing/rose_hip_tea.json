@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:rose_hips"
+    },
+    {
+      "item": "farmersrespite:rose_hips"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:glass_bottle"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:rose_hip_tea"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:long_coffee"
+    }
+  ],
+  "heatRequirement": "heated"
+}

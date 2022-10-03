@@ -1,0 +1,10 @@
+{
+  "registry_name": "biomemakeover:lightning_bug_alternate",
+  "primary_type": "sacred",
+  "spirits": [
+    {
+      "spirit": "sacred",
+      "count": 2
+    }
+  ]
+}

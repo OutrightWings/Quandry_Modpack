@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    },
+    {
+      "item":"minecraft:glass_bottle"
+    }
+  ],
+  "results": [
+    {
+    "item": "farmersdelight:apple_cider"
+    }
+  ],
+  "heatRequirement": "heated"
+}

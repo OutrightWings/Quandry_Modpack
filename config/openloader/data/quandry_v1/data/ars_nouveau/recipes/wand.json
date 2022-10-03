@@ -1,0 +1,55 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "tag": "forge:logs/archwood"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/source"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_ingot"
+      }
+    },
+    {
+      "item": {
+        "item": "forbidden_arcanus:arcane_gold_ingot"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:air_essence"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:manipulation_essence"
+      }
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:wand"
+  },
+  "sourceCost": 0,
+  "keepNbtOfReagent": false
+}

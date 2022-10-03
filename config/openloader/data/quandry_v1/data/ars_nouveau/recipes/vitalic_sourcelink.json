@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " s ",
+    "gig",
+    " s "
+  ],
+  "key": {
+    "g": {
+      "item": "forbidden_arcanus:arcane_gold_ingot"
+    },
+    "s": {
+      "tag": "forge:gems/source"
+    },
+    "i": {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:vitalic_sourcelink"
+  }
+}

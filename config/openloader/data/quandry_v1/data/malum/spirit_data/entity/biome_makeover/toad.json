@@ -1,0 +1,10 @@
+{
+  "registry_name": "biomemakeover:toad",
+  "primary_type": "aqueous",
+  "spirits": [
+    {
+      "spirit": "aqueous",
+      "count": 2
+    }
+  ]
+}

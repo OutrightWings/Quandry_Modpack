@@ -1,0 +1,10 @@
+{
+  "registry_name": "whisperwoods:hidebehind",
+  "primary_type": "eldritch",
+  "spirits": [
+    {
+      "spirit": "eldritch",
+      "count": 2
+    }
+  ]
+}

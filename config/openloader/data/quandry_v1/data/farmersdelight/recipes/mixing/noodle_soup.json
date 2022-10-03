@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "tag": "forge:raw_pork"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:noodle_soup"
+    }
+  ],
+  "heatRequirement": "heated"
+}

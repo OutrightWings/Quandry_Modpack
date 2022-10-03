@@ -1,0 +1,39 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "tag": "forge:cooked_mutton"
+    },
+    {
+      "tag": "forge:cooked_mutton"
+    },
+    {
+      "tag": "forge:cooked_mutton"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:shepherds_pie_block"
+    }
+  ],
+  "heatRequirement": "none"
+}

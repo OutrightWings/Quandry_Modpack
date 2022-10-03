@@ -1,0 +1,14 @@
+{
+  "registry_name": "whisperwoods:hirschgeist",
+  "primary_type": "eldritch",
+  "spirits": [
+    {
+      "spirit": "wicked",
+      "count": 3
+    },
+    {
+      "spirit": "eldritch",
+      "count": 3
+    }
+  ]
+}

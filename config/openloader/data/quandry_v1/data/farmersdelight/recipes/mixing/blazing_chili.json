@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+    {
+      "tag": "forge:raw_beef"
+    },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:blazing_chili"
+    }
+  ],
+  "heatRequirement": "heated"
+}

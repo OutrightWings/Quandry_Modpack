@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "farmersdelight:bacon"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "largemeals:hearty_lunch"
+    }
+  ],
+  "heatRequirement": "heated"
+}

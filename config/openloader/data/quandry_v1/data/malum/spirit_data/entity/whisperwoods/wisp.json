@@ -1,0 +1,10 @@
+{
+  "registry_name": "whisperwoods:wisp",
+  "primary_type": "arcane",
+  "spirits": [
+    {
+      "spirit": "arcane",
+      "count": 1
+    }
+  ]
+}

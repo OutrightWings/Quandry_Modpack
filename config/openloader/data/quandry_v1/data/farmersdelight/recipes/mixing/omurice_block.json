@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag":"forge:raw_chicken"
+    },
+    {
+      "item":"farmersdelight:rice"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "largemeals:omurice_block"
+    }
+  ],
+  "heatRequirement": "heated"
+}

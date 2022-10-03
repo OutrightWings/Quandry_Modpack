@@ -1,0 +1,10 @@
+{
+  "registry_name": "biomemakeover:glowfish",
+  "primary_type": "aqueous",
+  "spirits": [
+    {
+      "spirit": "aqueous",
+      "count": 1
+    }
+  ]
+}

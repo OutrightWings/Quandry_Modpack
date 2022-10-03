@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:black_tea"
+    },
+    {
+      "fluid": "create:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:strong_black_tea"
+    }
+  ],
+  "heatRequirement": "heated"
+}

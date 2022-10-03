@@ -1,0 +1,41 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    [
+      {
+        "item": "minecraft:rabbit"
+      },
+      {
+        "item": "minecraft:cooked_rabbit"
+      }
+    ],
+    {
+      "item": "minecraft:carrot"
+    },
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ],
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "minecraft:rabbit_stew"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse",
+    "biomemakeover:decay_curse",
+    "biomemakeover:insomnia_curse",
+    "biomemakeover:conductivity_curse",
+    "biomemakeover:enfeeblement_curse",
+    "biomemakeover:depth_curse",
+    "biomemakeover:flammability_curse",
+    "biomemakeover:suffocation_curse",
+    "biomemakeover:unwieldiness_curse",
+    "biomemakeover:inaccuracy_curse",
+    "biomemakeover:buckling_curse"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:glass_bottle"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:coffee"
+    }
+  ],
+  "heatRequirement": "heated"
+}

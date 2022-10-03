@@ -1,0 +1,18 @@
+{
+    "registry_name": "conjurer_illager:conjurer",
+    "primary_type": "eldritch",
+    "spirits": [
+      {
+        "spirit": "wicked",
+        "count": 1
+      },
+      {
+        "spirit": "arcane",
+        "count": 2
+      },
+      {
+        "spirit": "eldritch",
+        "count": 2
+      }
+    ]
+  }

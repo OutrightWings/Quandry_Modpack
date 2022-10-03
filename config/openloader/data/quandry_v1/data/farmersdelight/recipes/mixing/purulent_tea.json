@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:glass_bottle"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:purulent_tea"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,14 @@
+{
+  "registry_name": "cataclysm:netherite_monstrosity",
+  "primary_type": "infernal",
+  "spirits": [
+    {
+      "spirit": "infernal",
+      "count": 5
+    },
+    {
+      "spirit": "arcane",
+      "count": 2
+    }
+  ]
+}

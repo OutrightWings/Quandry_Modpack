@@ -1,0 +1,14 @@
+{
+    "registry_name": "artifacts:mimic",
+    "primary_type": "eldritch",
+    "spirits": [
+      {
+        "spirit": "wicked",
+        "count": 1
+      },
+      {
+        "spirit": "eldritch",
+        "count": 1
+      }
+    ]
+  }

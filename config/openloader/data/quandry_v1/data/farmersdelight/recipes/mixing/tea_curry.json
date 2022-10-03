@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:yellow_tea_leaves"
+    },
+    {
+      "item": "farmersrespite:yellow_tea_leaves"
+    },
+    {
+      "tag": "forge:raw_chicken"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:bowl"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:tea_curry"
+    }
+  ],
+  "heatRequirement": "heated"
+}

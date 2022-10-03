@@ -1,0 +1,10 @@
+{
+  "registry_name": "darkerdepths:glowshroom_monster",
+  "primary_type": "earthen",
+  "spirits": [
+    {
+      "spirit": "earthen",
+      "count": 3
+    }
+  ]
+}

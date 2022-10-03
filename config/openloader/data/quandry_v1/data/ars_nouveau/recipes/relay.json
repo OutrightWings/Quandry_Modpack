@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g g",
+    "gMg",
+    "g g"
+  ],
+  "key": {
+    "g": {
+      "item": "forbidden_arcanus:arcane_gold_ingot"
+    },
+    "M": {
+      "tag": "forge:storage_blocks/source"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:relay"
+  }
+}

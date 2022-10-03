@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersrespite:yellow_tea_leaves"
+    },
+    {
+      "item": "farmersrespite:yellow_tea_leaves"
+    },
+      {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+      },
+      {
+          "item":"minecraft:glass_bottle"
+      }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:yellow_tea"
+    }
+  ],
+  "heatRequirement": "heated"
+}

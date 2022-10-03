@@ -1,0 +1,47 @@
+{
+    "inputs": [
+        {
+            "item": "minecraft:ink_sac",
+            "slot": 0
+        },
+        {
+            "item": "forbidden_arcanus:arcane_crystal",
+            "slot": 1
+        },
+        {
+            "item": "malum:processed_soulstone",
+            "slot": 2
+        },
+        {
+            "item": "malum:cluster_of_brilliance",
+            "slot": 3
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "slot": 4
+        },
+        {
+            "item": "minecraft:glowstone_dust",
+            "slot": 5
+        }
+    ],
+    "hephaestus_forge_item": "minecraft:book",
+    "essences": {
+        "aureal": 70,
+        "experience": 40,
+        "blood": 1000,
+        "souls": 1
+    },
+    "result": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+            "StoredEnchantments": [
+                {
+                    "id": "malum:spirit_plunder",
+                    "lvl": 2
+                }
+            ]
+        }
+    }
+}

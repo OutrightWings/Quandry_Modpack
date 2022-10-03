@@ -1,0 +1,10 @@
+{
+  "registry_name": "crittersandcompanions:koi_fish",
+  "primary_type": "aqueous",
+  "spirits": [
+    {
+      "spirit": "aqueous",
+      "count": 1
+    }
+  ]
+}

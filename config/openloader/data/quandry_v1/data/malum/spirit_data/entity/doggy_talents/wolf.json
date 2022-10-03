@@ -1,0 +1,10 @@
+{
+  "registry_name": "doggytalents:dog",
+  "primary_type": "sacred",
+  "spirits": [
+    {
+      "spirit": "sacred",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "registry_name": "biomemakeover:moth",
+  "primary_type": "aerial",
+  "spirits": [
+    {
+      "spirit": "aerial",
+      "count": 2
+    }
+  ]
+}
