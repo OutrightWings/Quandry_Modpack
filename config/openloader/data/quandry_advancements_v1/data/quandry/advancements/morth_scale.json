@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "forbidden_arcanus:dragon_scale"
+    },
+    "title": {
+      "text": "Dragon Scale"
+    },
+    "description": {
+      "text": ""
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "quandry:morth_dragon",
+  "criteria": {
+    "item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "forbidden_arcanus:dragon_scale"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item"
+    ]
+  ]
+}

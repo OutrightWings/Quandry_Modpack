@@ -129,9 +129,6 @@
 		crimson = true
 		warped = true
 
-	[wood_type.darkerdepths]
-		petrified = true
-
 	[wood_type.undergarden]
 		smogstem = true
 		wigglewood = true
@@ -188,6 +185,9 @@
 
 	[wood_type.architects_palette]
 		twisted = true
+
+	[wood_type.born_in_chaos_v1]
+		scorched = true
 
 	[wood_type.malum]
 		runewood = true

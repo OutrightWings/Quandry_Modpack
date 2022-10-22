@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:\"Outrightwings\"}"
+    },
+    "title": {
+      "text": "Wings"
+    },
+    "description": {
+      "text": ""
+    },
+    "background": "forbidden_arcanus:textures/block/arcane_gilded_darkstone.png",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ]
+}

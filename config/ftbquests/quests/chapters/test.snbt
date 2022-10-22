@@ -7,6 +7,18 @@
 	icon: "sophisticatedbackpacks:backpack"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [{
+		x: -8.5d
+		y: 5.5d
+		width: 1.0d
+		height: 1.0d
+		rotation: 0.0d
+		image: "minecraft:textures/gui/presets/isles.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
 	quests: [
 		{
 			title: "Do You Accept This Task?"

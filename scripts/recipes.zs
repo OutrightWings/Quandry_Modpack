@@ -30,7 +30,6 @@ for item in items {
 }
 
 var smeltable = [
-    <item:darkerdepths:resin>,
     <item:minecraft:green_dye>
 ] as IItemStack[];
 for item in smeltable{

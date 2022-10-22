@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "forbidden_arcanus:arcane_gold_ingot"
+    },
+    "title": {
+      "text": "Arcane Gold"
+    },
+    "description": {
+      "text": ""
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "quandry:wings_mundabitur",
+  "criteria": {
+    "item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "forbidden_arcanus:arcane_gold_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item"
+    ]
+  ]
+}

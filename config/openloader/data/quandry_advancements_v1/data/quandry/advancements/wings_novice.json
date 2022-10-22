@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "ars_nouveau:novice_spell_book"
+    },
+    "title": {
+      "text": "Novice Spell Book"
+    },
+    "description": {
+      "text": ""
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "quandry:wings_mundabitur",
+  "criteria": {
+    "item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ars_nouveau:novice_spell_book"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item"
+    ]
+  ]
+}

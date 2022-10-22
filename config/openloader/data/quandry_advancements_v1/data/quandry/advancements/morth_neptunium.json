@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "title": {
+      "text": "Neptunium"
+    },
+    "description": {
+      "text": ""
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "quandry:morth_fishing",
+  "criteria": {
+    "item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aquaculture:neptunium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item"
+    ]
+  ]
+}

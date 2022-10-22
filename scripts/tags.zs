@@ -21,8 +21,6 @@ cookedFish.add(cooked as stdlib.List<IIngredient>);
 
 //ash
 var ashes = [
-    <item:darkerdepths:ash>,
-    <item:darkerdepths:ash_block>,
     <item:byg:subzero_ash_block>
 ]as IIngredient[];
 <tag:items:forge:dusts>.add(ashes as stdlib.List<IIngredient>);
@@ -58,7 +56,8 @@ var cactuses = [
     <item:byg:mini_cactus>,
     <item:byg:prickly_pear_cactus>,
     <item:byg:golden_spined_cactus>,
-    <item:minecraft:cactus>
+    <item:minecraft:cactus>,
+    <item:creeperoverhaul:tiny_cactus>
 ] as IItemStack[];
 for cac in cactuses{
     <tag:items:byg:green_dye>.remove(cac);
