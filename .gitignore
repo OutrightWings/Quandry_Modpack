@@ -10,7 +10,6 @@ schematics
 screenshots
 .curseclient
 minecraftinstance.json
-modlist.html
 usercache.json
 usernamecache.json
 patchouli_data.json
