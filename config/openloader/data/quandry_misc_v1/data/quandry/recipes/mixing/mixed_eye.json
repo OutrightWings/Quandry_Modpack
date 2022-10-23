@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "biomemakeover:stunt_powder"
+    },
+    {
+      "item": "byg:brim_powder"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": "Bottle: \"REGULAR\",Potion: \"minecraft:invisibility\"",
+      "amount": 250
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": "Bottle: \"REGULAR\",Potion: \"minecraft:turtle_master\"",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+    "item": "endrem:guardian_eye"
+    }
+  ],
+  "heatRequirement": "none"
+}

@@ -112,7 +112,9 @@ var reagents = [
     <item:alexsmobs:rattlesnake_rattle>,
     <item:biomemakeover:wart>,
     <item:ars_nouveau:magebloom>,
-    <item:ars_nouveau:source_berry>
+    <item:ars_nouveau:source_berry>,
+    <item:malum:astral_weave>,
+    <item:malum:rotting_essence>
 ] as IIngredient[];
 
 var potionTag = <tag:items:quandry:potion>;
