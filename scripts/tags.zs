@@ -27,6 +27,11 @@ var ashes = [
 <tag:items:forge:dusts/ash>.add(ashes as stdlib.List<IIngredient>);
 <tag:items:forge:ash>.add(ashes as stdlib.List<IIngredient>);
 
+var dusts = [
+    <item:byg:pollen_dust>
+]as IIngredient[];
+<tag:items:forge:dusts>.add(dusts as stdlib.List<IIngredient>);
+
 //are crafted with enchanting
 var immune = [
     <item:forbidden_arcanus:slimec_pickaxe>,

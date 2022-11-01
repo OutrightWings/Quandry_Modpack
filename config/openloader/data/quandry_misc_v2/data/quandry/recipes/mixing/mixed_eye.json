@@ -12,12 +12,18 @@
     },
     {
       "fluid": "create:potion",
-      "nbt": "Bottle: \"REGULAR\",Potion: \"minecraft:invisibility\"",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:invisibility"
+      },
       "amount": 250
     },
     {
       "fluid": "create:potion",
-      "nbt": "Bottle: \"REGULAR\",Potion: \"minecraft:turtle_master\"",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:turtle_master"
+      },
       "amount": 250
     }
   ],
