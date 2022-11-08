@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:has_structure/bastion_remnant",
+    "#minecraft:has_structure/nether_fortress"
+  ]
+}
