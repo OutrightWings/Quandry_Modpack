@@ -1,10 +1,6 @@
 {
   "structures": [
     {
-      "structure": "towns_and_towers:mimic_desert",
-      "weight": 0
-    },
-    {
       "structure": "towns_and_towers:wreckage_ocean",
       "weight": 1
     }
